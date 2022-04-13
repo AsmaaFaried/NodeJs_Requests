@@ -10,4 +10,4 @@
 ## home 
 ![home](https://user-images.githubusercontent.com/76657463/163074105-d8eb7127-18e5-4bd3-8b12-d8b4fffdf844.png)
 ## Error Page
-![Error](https://user-images.githubusercontent.com/76657463/163074119-58366074-3018-42ae-a10a-d6a7fadde6ac.png)
+![Error](https://user-images.githubusercontent.com/76657463/163074297-dbcf7a45-29fc-4a7a-be22-e8eabf92776a.png)
